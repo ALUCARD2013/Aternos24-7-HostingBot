@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "ggsmpxyz.minefort.com",
-    "port": 62213,
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
