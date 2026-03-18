@@ -8,7 +8,7 @@
   "server": {
     "ip": "ggsmpxyz.minefort.com",
     "port": 25565,
-    "version": "",
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
